@@ -1,1 +1,1 @@
-# accumulator-server-container
+# Accumulator Server Container
